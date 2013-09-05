@@ -1,5 +1,4 @@
 Perimeter.js
-testing changes
 ====
 <blockquote>
 	<p>Creates an invisible perimeter around a target element and monitors mouse breaches.</p>
